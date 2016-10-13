@@ -14,8 +14,8 @@ Modify your create-env.sh script on your Github account so that these parameters
 
 (Assume your region is US-West-2)  
 
-AMI ID
-key-name 
-security-group 
-launch-configuration 
-count
+AMI ID<br/>
+key-name <br/>
+security-group<br/> 
+launch-configuration<br/> 
+count<br/>
